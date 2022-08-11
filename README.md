@@ -1,5 +1,6 @@
 # python-excel
-Pythonでエクセルを操作するリポジトリです。
+Pythonでエクセルを操作するリポジトリです。<br>
+こちらはDockerで環境を構築しています。<br>
 
 ## 参考にしたサイト
 https://qiita.com/jhorikawa_err/items/fb9c03c0982c29c5b6d5
