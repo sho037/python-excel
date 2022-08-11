@@ -18,3 +18,13 @@ docker-compose up -d
 ```
 docker-compose exec python3 bash
 ```
+
+# ライブラリのインストール(Python内で)
+```
+python -m pip install numpy
+```
+
+# コンテナ終了(先にctrl-DでPythonから抜けておきましょう)
+```
+docker-compose down
+```
