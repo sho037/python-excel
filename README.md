@@ -24,6 +24,7 @@ docker-compose exec python3 bash
 ```
 python -m pip install numpy
 pip install pandas
+pip install xlrd
 ```
 
 # コンテナ終了(先にctrl-DでPythonから抜けておきましょう)
